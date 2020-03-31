@@ -1,0 +1,148 @@
+{
+  "products": [
+    {
+      "artnumber": "2SD-432412",
+      "name": "Iphone 5s",
+      "brand": "Apple",
+      "quantity": 2,
+      "price": 700,
+      "stock": 0,
+      "img": "https://verysmartphones.com/246-large_default/iphone-5-16-gb-space-gray-unlocked.jpg"
+    },
+    {
+      "artnumber": "LSD-43244312",
+      "name": "Iphone 7",
+      "brand": "Apple",
+      "quantity": 2,
+      "price": 600,
+      "stock": 0,
+      "img": "https://storeinua.com/image/cache/catalog/iPhone7/kitajskij-iphone-7-jet-black-avatar-600x600-800x800.jpg"
+    },
+    {
+      "artnumber": "LSD-4332412",
+      "name": "Iphone X",
+      "brand": "Apple",
+      "quantity": 1,
+      "price": 500,
+      "stock": 1,
+      "img": "https://www.bsetechnology.com/wp-content/uploads/2018/07/iPhoneX-silver-1.jpg"
+    },
+    {
+      "artnumber": "L43SD-432412",
+      "name": "Mackbook 16",
+      "brand": "Apple",
+      "quantity": 2,
+      "price": 300,
+      "stock": 1,
+      "img": "https://www.photorig.eu/image/cache/catalog/apple-macbook-pro-16-silver-2019-1-800x800.jpg"
+    },
+    {
+      "artnumber": "LS314D-432412",
+      "name": "Galaxy s10",
+      "brand": "Samsung ",
+      "quantity": 3,
+      "price": 100,
+      "stock": 1,
+      "img": "https://citrafon.com.ua/image/cache/catalog/product/Samsung/samsung-galaxy-s10-plus/samsung-galaxy-s10-plus-black-3-min-800x800.jpg"
+    },
+    {
+      "artnumber": "LS342D-432412",
+      "name": "Galaxy note 9",
+      "brand": "Samsung ",
+      "quantity": 5,
+      "price": 300,
+      "stock": 0,
+      "img": "https://citrafon.com.ua/image/cache/catalog/product/Samsung/Galaxy-Note-9/black-1-800x800.jpg"
+    },
+    {
+      "artnumber": "LS34D-4323",
+      "name": "Iphone XS",
+      "brand": "Apple",
+      "quantity": 32,
+      "price": 700,
+      "stock": 1,
+      "img": "https://image.dhgate.com/0x0s/f2-albu-g8-M00-36-97-rBVaVFwI2ZGAe3cBAAQluHpCzuY764.jpg/for-iphone-xs-max-6-5inch-xr-tempered-glass.jpg"
+    },
+    {
+      "artnumber": "LS34D-4324412",
+      "name": "Galaxy note 7",
+      "brand": "Samsung",
+      "quantity": 2,
+      "price": 300,
+      "stock": 1,
+      "img": "https://mobilemarketingmagazine.com/wp-content/uploads/2016/09/Galaxy-Note-7-800x800.jpg"
+    },
+    {
+      "artnumber": "LS534D-432412",
+      "name": "Mi mix",
+      "brand": "Xiaomi ",
+      "quantity": 2,
+      "price": 600,
+      "stock": 1,
+      "img": "https://citrafon.com.ua/image/cache/catalog/product/Xiaomi/Xiaomi-Mi-Mix-2/Xiaomi-Mi-Mix-2-6-64GB-Black-3-800x800.jpg"
+    },
+    {
+      "artnumber": "LS364D-432412",
+      "name": "Mi 9",
+      "brand": "Xiaomi",
+      "quantity": 2,
+      "price": 700,
+      "stock": 1,
+      "img": "https://www.powerplanetonline.com/cdnassets/xiaomi_mi_9_06_azul_ad_l.jpg"
+    },
+    {
+      "artnumber": "LS534D-432412",
+      "name": "Mi 10",
+      "brand": "Xiaomi",
+      "quantity": 2,
+      "price": 180,
+      "stock": 1,
+      "img": "https://www.ixbt.com/img/n1/news/2020/2/3/thumb_323515_default_big_large.png"
+    },
+    {
+      "artnumber": "LS34D-4324612",
+      "name": "Mi note 10",
+      "brand": "Xiaomi",
+      "quantity": 2,
+      "price": 400,
+      "stock": 0,
+      "img": "https://www.powerplanetonline.com/cdnassets/xiaomi_mi_note_10_6gb_128gb_05_blanco_ad_l.jpg"
+    },
+    {
+      "artnumber": "L1S 432412",
+      "name": "M5s",
+      "brand": "Meizu ",
+      "quantity": 2,
+      "price": 600,
+      "stock": 1,
+      "img": "https://hotline.ua/img/tx/220/2209042715.jpg"
+    },
+    {
+      "artnumber": "LS364312412",
+      "name": "X8",
+      "brand": "Meizu",
+      "quantity": 2,
+      "price": 700,
+      "stock": 1,
+      "img": "https://gva.com.ua/image/cache/catalog/skay/178/IMGeec49d66b511dfc3e96290aa303fbc16-800x800.jpg"
+    },
+    {
+      "artnumber": "LS5341D-432412",
+      "name": "16th",
+      "brand": "Meizu",
+      "quantity": 2,
+      "price": 180,
+      "stock": 1,
+      "img": "https://skymarket.ua/image/cache/catalog/telefony/Meizu/0a662e110cfc4248c2590b0eccce2b1b-800x800.jpg"
+    },
+    {
+      "artnumber": "LS134D-43214612",
+      "name": "M6 note",
+      "brand": "Meizu",
+      "quantity": 2,
+      "price": 400,
+      "stock": 0,
+      "img": "https://i2.rozetka.ua/goods/8212688/58005915_images_8212688673.jpg"
+    }
+  ]
+}
